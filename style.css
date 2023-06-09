@@ -126,7 +126,7 @@
   
 
 .background{
-    background:  rgba(0, 0, 0, 0.6 ) url(../images/maining.jpg)  ;
+    background:  rgba(0, 0, 0, 0.6 ) url(images/maining.jpg)  ;
     
     background-size:cover;
     background-blend-mode: darken ;
